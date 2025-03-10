@@ -1,3 +1,3 @@
 # IBMcapstone
 contains artifacts for the UColorado IBM Capstone project on Rocket Stage Recovery prediction
-This is a markdown file
+Artifacts will be used to complete the assignment and allow for peer reviews.
